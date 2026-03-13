@@ -1,5 +1,6 @@
 ---
 name: WeChat2PDF
+version: 0.1.0
 description: 将微信公众号文章完美转换为高清排版的无防盗链 PDF 和 Markdown 文件，方便永久归档与离线阅读。
 homepage: https://github.com/Xi0ng8/WeChat2PDF
 metadata:
